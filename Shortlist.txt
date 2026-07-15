@@ -1,0 +1,12 @@
+1. Angry Birds
+3 Levels.
+2. Hill Climb Racing
+3. Fruit Ninja
+4. Bouncify
+
+1 -> Start, Credits
+2 -> Play, Help(Controls, Audio(Music(0%-100% minibar), Sound Effect(0%-100% minibar))), High Scores(Top 5 high scores, initially the blank scores are named as zero and scored as null), Quit
+3 -> Play- New Game, Load Game(Continued from where the game was previously left on)
+4 -> New Game- Enter your name(Dialogue Box) -> Enter
+For now, these are the options I want to add in my game. Now I want to add some levels on it. What do you think?
+like at first, a Thumbnail appears(bg photo will be provided later). On the background, 
